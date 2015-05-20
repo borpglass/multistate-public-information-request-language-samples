@@ -1,7 +1,6 @@
 Multistate public information requests
 ======
-The **multistate-public-information-request-language-samples
-** repository will hopefully be a bunch of (mostly) successful requests -- that is, requests that give me back most of what I'm looking for. I leave unsuccessful ones out to avoid wasting others' time, though you're welcome to scour agency FOIA logs to find them :)
+The **multistate-public-information-request-language-samples** repository will hopefully be a bunch of (mostly) successful requests -- that is, requests that give me back most of what I'm looking for. I leave unsuccessful ones out to avoid wasting others' time, though you're welcome to scour agency FOIA logs to find them :)
 
 Partial list of TODOs: 
 
