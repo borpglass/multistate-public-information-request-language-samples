@@ -4,5 +4,5 @@ The **multistate-public-information-request-language-samples** repository will h
 
 **Partial list of TODOs:**
 
-It may pay in future to extend the chronological range of queries forward a bit (if it hasn't already been done -- some queries have this feature already, while others don't). Even partial yearly data is useful if it allows us to track changes in the mere presence of something -- an employee name on a list, for example, which moves our analysis of departures forward by a year.
+-- It may pay in future to extend the chronological range of queries forward a bit (if it hasn't already been done -- some queries have this feature already, while others don't). Even partial yearly data is useful if it allows us to track changes in the mere presence of something -- an employee name on a list, for example, which moves our analysis of departures forward by a year.
 
